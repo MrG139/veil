@@ -28,3 +28,4 @@ frontend/mobile/android/
 .DS_Store
 build_error.txt
 TODO.md
+config.bat
