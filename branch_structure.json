@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/frontend/docs/nextra-4.6.1",
+    "dependabot/npm_and_yarn/frontend/docs/nextra-theme-docs-4.6.1",
+    "dependabot/npm_and_yarn/packages/agent/stellar/stellar-sdk-16.0.1",
+    "dependabot/npm_and_yarn/sdk/multi-cbfe5253e3",
+    "dependabot/npm_and_yarn/sdk/stryker-mutator/typescript-checker-9.6.1",
+    "fix/issue-431-455-brand-theme-and-tutorial",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/frontend/docs/nextra-4.6.1": "main",
+    "dependabot/npm_and_yarn/frontend/docs/nextra-theme-docs-4.6.1": "main",
+    "dependabot/npm_and_yarn/packages/agent/stellar/stellar-sdk-16.0.1": "main",
+    "dependabot/npm_and_yarn/sdk/multi-cbfe5253e3": "main",
+    "dependabot/npm_and_yarn/sdk/stryker-mutator/typescript-checker-9.6.1": "main",
+    "fix/issue-431-455-brand-theme-and-tutorial": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/frontend/docs/nextra-4.6.1",
+    "dependabot/npm_and_yarn/frontend/docs/nextra-theme-docs-4.6.1",
+    "dependabot/npm_and_yarn/packages/agent/stellar/stellar-sdk-16.0.1",
+    "dependabot/npm_and_yarn/sdk/multi-cbfe5253e3",
+    "dependabot/npm_and_yarn/sdk/stryker-mutator/typescript-checker-9.6.1",
+    "fix/issue-431-455-brand-theme-and-tutorial",
+    "origin"
+  ]
+}
